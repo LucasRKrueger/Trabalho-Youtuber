@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\Youtuber\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Youtuber\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Youtuber\Model\obj\Debug\Model.dll
+C:\Users\Lucas\Desktop\Youtuber\Model\obj\Debug\Model.pdb
+C:\Users\Lucas\Desktop\Youtuber\Model\bin\Debug\Model.dll
+C:\Users\Lucas\Desktop\Youtuber\Model\bin\Debug\Model.pdb
+C:\Users\100314\Desktop\Youtuber\Model\bin\Debug\Model.dll
+C:\Users\100314\Desktop\Youtuber\Model\bin\Debug\Model.pdb
+C:\Users\100314\Desktop\Youtuber\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\100314\Desktop\Youtuber\Model\obj\Debug\Model.dll
+C:\Users\100314\Desktop\Youtuber\Model\obj\Debug\Model.pdb
